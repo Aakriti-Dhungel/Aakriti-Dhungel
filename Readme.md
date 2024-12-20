@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aakriti Dhungel</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aakriti-Dhungel?tab=repositories](https://github.com/Aakriti-Dhungel
+- 👨‍💻 All of my projects are available at [https://github.com/Aakriti-Dhungel?tab=repositories]
 
 - 📫 How to reach me **aakritidhungel01@gmail.com**
 
