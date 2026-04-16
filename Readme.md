@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakriti Dhungel</h1>
 <h3 align="center">Passionate Web Developer | Laravel | Full Stack Developer</h3>
 
----
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on web development projects  
@@ -11,7 +10,7 @@
 - 📫 Reach me: **aakritidhungel01@gmail.com**  
 - ⚡ Fun fact: I enjoy turning ideas into real-world applications  
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -21,7 +20,7 @@
 </a>
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -85,7 +84,6 @@
 
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
