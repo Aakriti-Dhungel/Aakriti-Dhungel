@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aakriti Dhungel</h1>
-<h3 align="center">Passionate Web Developer | Laravel | Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Laravel</h3>
+
+<p align="center">
+Laravel developer focused on building REST APIs,
+database-driven applications, and responsive web interfaces using Tailwind CSS.
+</p>
+
+
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on web development projects  
-- 🌱 Learning advanced Laravel, React, and system design  
+- 🔭 Currently building full stack Laravel applications  
+- 🌱 Learning advanced Laravel, Blade, REST APIs, and system design  
 - 👨‍💻 My projects:  
   👉 https://github.com/Aakriti-Dhungel?tab=repositories  
 - 📫 Reach me: **aakritidhungel01@gmail.com**  
 - ⚡ Fun fact: I enjoy turning ideas into real-world applications  
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -20,7 +29,7 @@
 </a>
 </p>
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -84,13 +93,16 @@
 
 </p>
 
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakriti-dhungel&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakriti-dhungel&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakriti-Dhungel&show_icons=true&theme=default" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakriti-Dhungel&layout=compact&theme=default" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti-dhungel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakriti-Dhungel&theme=default" />
 </p>
